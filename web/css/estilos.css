@@ -1,0 +1,100 @@
+body {
+    background: rgb(230, 145, 88); 
+}
+
+.relativo {
+    position: relative;
+}
+
+.absoluto {
+    position: absolute;
+}
+
+.logo img {
+    height: 55px;
+}
+
+.slider-img{
+    height: 100%;
+}
+
+.contenedor {
+    padding: 35px;
+    color: white;
+    background: linear-gradient(to bottom ,rgb(137, 25, 35),rgb(165, 42, 42),rgb(178, 71, 89));
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    height: 100%;
+}
+
+.contenedor2 {
+    padding: 35px;
+    border-radius: 50px;
+    background: linear-gradient(to right,rgb(137, 25, 35),rgb(165, 42, 42), rgb(225, 122, 139),rgb(165, 42, 42),rgb(137, 25, 35));
+}
+
+.local {
+    height: 500px;
+    left: 125px;
+    border-radius: 50px;
+}
+
+.flotante {
+    padding: 35px;
+}
+
+.carta {
+    color: white;
+    height: 720px;
+    margin: 0 auto;
+    
+}
+
+.carta-borde {
+    margin: 0 auto;
+    background: brown;
+    height: 525px;
+    width: 525px;
+    border-radius: 50%;
+    padding: 1.5%;
+}
+
+.carta-borde-2 {
+    margin: 0 auto;
+    background: brown;
+    height: 425px;
+    width: 425px;
+    border-radius: 50%;
+    padding: 2.5%;
+}
+
+.img-flotante {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+}
+
+.img-flotante-2 {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+
+.letra-blanco {
+    color: white;
+}
+
+.pie-pagina {
+    padding: 35px;
+    background: rgb(29, 29, 29);
+    color: white;
+}
+
+.btn-per {
+    color: rgb(151, 150, 150);
+    background: rgb(29, 29, 29);
+}
+
+.icon {
+    height: 55px;
+}
